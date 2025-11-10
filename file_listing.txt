@@ -1,0 +1,8 @@
+AegisProxy.json
+AegisTimelock.json
+AegisToken.json
+AEGIS_FRAMEWORK_DOCUMENTATION.md
+AEGIS_FRAMEWORK_LAUNCH_PACKAGE.md
+AEGIS_FRAMEWORK_SECURITY_REPORT.md
+file_listing.txt
+README_FIRST.txt
